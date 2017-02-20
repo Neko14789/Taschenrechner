@@ -1,0 +1,9 @@
+Ergebnis über Ergebnisfeld schreiben
+
+Beschriftungen korrigieren (positionen)
+
+Neue Beschriftungen (Operator, Ergebnis, ...)
+
+Ergebnis Rundung ohne Rechen Knopf noch mal zu drücken
+
+0/0= Fehlermeldung
